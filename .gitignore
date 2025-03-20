@@ -1,0 +1,24 @@
+# Python bytecode and cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# SQLite database file
+db.sqlite3
+
+# Django local settings and logs
+*.log
+local_settings.py
+
+# Virtual environment folders (adjust the folder name if different)
+venv/
+ENV/
+.env/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Backup files (if not needed in version control)
+backup.json
